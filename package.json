@@ -1,0 +1,21 @@
+{
+	"name": "movie-search-app",
+	"version": "0.0.0",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"format": "prettier --write .",
+		"format:check": "prettier --check ."
+	},
+	"devDependencies": {
+		"prettier": "^3.9.6",
+		"vite": "^8.2.0"
+	},
+	"dependencies": {
+		"@tailwindcss/vite": "^4.3.3",
+		"tailwindcss": "^4.3.3"
+	}
+}

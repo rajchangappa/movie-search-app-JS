@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+	background-color: #0f0f0f;
+}
+
+input,
+button {
+	outline: none;
+	text-transform: capitalize;
+}
+
+input {
+	caret-color: #e04141;
+}
