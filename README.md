@@ -4,7 +4,7 @@ CineFind is a movie search app built with Vite and Tailwind CSS. Search for a mo
 
 ## Demo
 
-Deployment URL: movie-search-app-2concstgm-whorajks-projects.vercel.app
+Deployment URL: [movie-search-app-2concstgm-whorajks-projects.vercel.app](https://movie-search-app-js-plum.vercel.app/)
 
 ## Features
 
